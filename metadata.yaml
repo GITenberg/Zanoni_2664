@@ -1,0 +1,43 @@
+_repo: Zanoni_2664
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer, Edward Lytton
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+description: "Zanoni is an 1842 novel by Edward Bulwer-Lytton, a story of love and\
+  \ occult aspiration. By way of introduction, the author confesses: \"... It so chanced\
+  \ that some years ago, in my younger days, whether of authorship or life, I felt\
+  \ the desire to make myself acquainted with the true origins and tenets of the singular\
+  \ sect known by the name of Rosicrucians.\" A manuscript came into his hands written\
+  \ in the most unintelligible cipher, a manuscript which through the author's own\
+  \ interpretation became Zanoni.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2664'
+  wikidata: Q1444644
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rosicrucians -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Zanoni
+url: http://www.gutenberg.org/ebooks/2664
+wikipedia:
+- https://fr.wikipedia.org/wiki/Zanoni
+- https://ar.wikipedia.org/wiki/%D8%B2%D8%A7%D9%86%D9%88%D9%86%D9%8A
+- https://nl.wikipedia.org/wiki/Zanoni
+- https://pt.wikipedia.org/wiki/Zanoni
+- https://en.wikipedia.org/wiki/Zanoni
+- https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8
+- https://he.wikipedia.org/wiki/%D7%96%D7%90%D7%A0%D7%95%D7%A0%D7%99
