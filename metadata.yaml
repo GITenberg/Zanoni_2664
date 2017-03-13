@@ -1,5 +1,8 @@
 _repo: Zanoni_2664
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lytton, Edward Bulwer Lytton, Baron
@@ -18,6 +21,8 @@ description: "Zanoni is an 1842 novel by Edward Bulwer-Lytton, a story of love a
   \ sect known by the name of Rosicrucians.\" A manuscript came into his hands written\
   \ in the most unintelligible cipher, a manuscript which through the author's own\
   \ interpretation became Zanoni.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2664#Zanoni
 gutenberg_issued: '2006-02-19'
 gutenberg_type: Text
 identifiers:
